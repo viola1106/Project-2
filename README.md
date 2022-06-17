@@ -1,4 +1,4 @@
-# Project_2_Business Hotel Reservation 訂房小幫手
+# Project_Business Hotel Assistant 訂房小幫手
 ### 專案說明
 * 使用工具: Selenium, Tkinter, Openpyxl, Excel      
 * 資料來源: Booking, Agoda     
